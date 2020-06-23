@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Example of Inuksuk at the Vancouver 2010 Winter Olimpics from [Wikipedia](https://en.wikipedia.org/wiki/Inuksuk)
