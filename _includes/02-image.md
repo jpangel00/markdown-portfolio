@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Inuksuk at Vancouver 2020](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/All_Your_Base_Are_Belong_to_Ilanaaq_%2810615471%29.jpg/1920px-All_Your_Base_Are_Belong_to_Ilanaaq_%2810615471%29.jpg)
